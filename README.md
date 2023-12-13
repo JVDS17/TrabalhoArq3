@@ -1,6 +1,6 @@
 ## Simulador de Tomasulo
 
-Você pode executar a demo deste simulador neste [NESTE LINK AQUI](https://teste.joaoVictor.com)
+Você pode executar a demo deste simulador neste [NESTE LINK AQUI](https://teste.matheusdev.com)
 
 Ao abrir basta selecionar um exemplo ou insetir manualmente as instruções e em seguida clicar em simular.
 Assim que você clicar em simular basta clicar no botão PROXÍMO que ele ira executar as operações passo a passo.
@@ -10,11 +10,11 @@ Caso queira baixar o projeto para executar em seu ambiente local, basta executar
 
 ### Desenvolvido por:
 
-- Arthur Henrique Neves dias
-- Eduardo Rangel Becattini
-- João Vicctor Dos Santos
-- Paulo Antonio Eufrazio Araujo
+- João Vitor Gonzaga Jota
+- Juliana Granffild Andrade Silva
+- Matheus Rosa Campbell
+- Wesley Filemon Rocha Rodrigues
 
 ### Professor:
 - Henrique Cota de Freitas 
-
+- 
